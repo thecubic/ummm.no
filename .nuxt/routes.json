@@ -1,9 +1,16 @@
 [
   {
+    "name": "blog-hello",
+    "path": "/blog/:hello?",
+    "component": "H:\\\\code\\\\ummm.no\\\\pages\\\\blog\\\\_hello.vue",
+    "chunkName": "pages/blog/_hello",
+    "_name": "_fc8360e2"
+  },
+  {
     "name": "index",
     "path": "/",
-    "component": "/home/thecubic/code/ummm.no/pages/index.vue",
+    "component": "H:\\\\code\\\\ummm.no\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_a0570378"
+    "_name": "_2b064628"
   }
 ]

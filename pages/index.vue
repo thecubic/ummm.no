@@ -1,5 +1,5 @@
 <template>
-  <Tutorial />
+  <p>Don't watch this space!</p>
 </template>
 
 <script lang="ts">
